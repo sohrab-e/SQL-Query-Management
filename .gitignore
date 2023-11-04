@@ -16,7 +16,6 @@ Thumbs.db
 *.pid
 *.out
 *.lock
-docker-compose.yml
 elasticsearch-data/
 .env
 .env.local
